@@ -1,4 +1,4 @@
-Django==4.2.17
+Django==4.2.18
 django-environ==0.4.5
 django-widget-tweaks==1.4.8
 google-api-python-client==1.12.5
